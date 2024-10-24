@@ -21,6 +21,40 @@ function App() {
     { icon: "★", lang: "Creativity" },
   ];
   const project = [
+
+    {
+      img: "himalya.jpg",
+      title: "Himalaya",
+      date: "22 October 2024",
+      link : "https://www.pacdora.com/share?filter_url=pstc4fjxd0"
+    },
+    {
+      img: "aalu.jpg",
+      title: "Aalo Bhujia 3D Packing",
+      date: "24 October 2024",
+      link : "https://www.pacdora.com/share?filter_url=ps2rgic0om"
+    },
+    {
+      img: "lays.jpg",
+      title: "Lays 3D Packing",
+      date: "25 October 2024",
+      link : "https://www.pacdora.com/share?filter_url=psg8ulmgfu"
+    },
+    {
+      img: "ritvik.jpg",
+      title: "Ritvik Soni Web Developer",
+      date: "20 October 2024",
+    },
+    {
+      img: "4.jpg",
+      title: "Quick Makeover",
+      date: "26 September 2024",
+    }, 
+    {
+      img: "6.jpg",
+      title: "Fanta - Orange",
+      date: "28 September 2024",
+    },
     {
       img: "1.jpg",
       title: "Coffee-Pea",
@@ -36,21 +70,52 @@ function App() {
       title: "Navratri Special",
       date: "24 September 2024",
     },
+    
+    
+  
     {
-      img: "4.jpg",
-      title: "Quick Makeover",
-      date: "26 September 2024",
+      img: "gandhi.jpg",
+      title: "Gandhi Jayanti",
+      date: "2 October 2024",
     },
     {
-      img: "6.jpg",
-      title: "Fanta - Orange",
-      date: "28 September 2024",
+      img: "flying.jpg",
+      title: "Flying Diamonds PTE / VISA / DIGITAL MARKETING",
+      date: "4 October 2024",
     },
     {
-      img: "9.jpg",
-      title: "Sprite Special",
-      date: "30 September 2024",
+      img: "alisha.jpg",
+      title: "Alisha Makeover",
+      date: "6 October 2024",
     },
+    {
+      img: "madan.jpg",
+      title: "Madan Infotech",
+      date: "8 October 2024",
+    },
+    {
+      img: "dushera.jpg",
+      title: "Happy Dussehra",
+      date: "12 October 2024",
+    },
+    {
+      img: "oreo.jpg",
+      title: "Milk's Favourite Cookie Oreo",
+      date: "14 October 2024",
+    },
+    {
+      img: "pepsi.jpg",
+      title: "Cool-Cool Pepsi",
+      date: "16 October 2024",
+    },
+    
+    {
+      img: "google.jpg",
+      title: "Start Your Business",
+      date: "22 October 2024",
+    },
+    
+    
 
   ];
   return (
@@ -81,7 +146,7 @@ function App() {
                 <span className="parul">Parul Hudda</span>
               </div>
               <div className="end">
-                <img src="/img/logo.jpg" alt="" />
+                <img src="/img/parul-logo.jpg" alt="" />
               </div>
             </main>
           </section>
