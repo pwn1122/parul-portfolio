@@ -21,6 +21,37 @@ function App() {
     { icon: "★", lang: "Creativity" },
   ];
   const project = [
+    {
+      img: "bhaidooj.jpg",
+      title: "Happy Bhaidooj",
+      date: "3 November 2024",
+    },
+    {
+      img: "gordhan.jpg",
+      title: "Govardhan Pooja",
+      date: "2 November 2024",
+    },
+    {
+      img: "haryanaday.jpg",
+      title: "Happy Haryana Day",
+      date: "1 November 2024",
+    },
+    {
+      img: "diwali.jpg",
+      title: "Happy Dipawli",
+      date: "31 October 2024",
+      
+    },
+    {
+      img: "dhanteras.jpg",
+      title: "Happy Dhanteras",
+      date: "30 October 2024",
+    },
+    {
+      img: "1.jpg",
+      title: "Coffee-Pea",
+      date: "20 September 2024",
+    },
 
     {
       img: "himalya.jpg",
@@ -40,11 +71,7 @@ function App() {
       date: "25 October 2024",
       link : "https://www.pacdora.com/share?filter_url=psg8ulmgfu"
     },
-    {
-      img: "ritvik.jpg",
-      title: "Ritvik Soni Web Developer",
-      date: "20 October 2024",
-    },
+    
     {
       img: "4.jpg",
       title: "Quick Makeover",
@@ -56,10 +83,11 @@ function App() {
       date: "28 September 2024",
     },
     {
-      img: "1.jpg",
-      title: "Coffee-Pea",
-      date: "20 September 2024",
+      img: "ritvik.jpg",
+      title: "Ritvik Soni Web Developer",
+      date: "20 October 2024",
     },
+    
     {
       img: "2.jpg",
       title: "Digital Marketing ",

@@ -95,6 +95,16 @@ margin-bottom: 20px;
 .main-div{
   display: flex;
   flex-direction: column;
+}
+
+.linkdin:hover{
+  text-decoration: underline;
+  background-color: #000;
+}
+
+.insta:hover{
+  text-decoration: underline;
+ background-color: black;
  
 }
 .dev{
@@ -211,7 +221,7 @@ cursor: pointer;
   animation: end 1s ease 0s 1 normal forwards;
 }
 .end img{
-  border-radius: 50px;
+  border-radius: 100px;
   height: 200px;
   width: 200px;
 }
