@@ -28,6 +28,26 @@ function App() {
       date: "20 November 2024",
     },
     {
+      img: "chiken.jpg",
+      title: "Chicken Biryani",
+      date: "19 November 2024",
+    },
+    {
+      img: "ai.jpg",
+      title: "AI Course",
+      date: "18 November 2024",
+    },
+    {
+      img: "digitalll.jpg",
+      title: "Digital Marketing",
+      date: "17 November 2024",
+    },
+    {
+      img: "lipton2.jpg",
+      title: "Lipton Juice",
+      date: "16 November 2024",
+    },
+    {
       img: "gurunanak.jpg",
       title: "Happy Gurunanak Jayanti",
       date: "15 November 2024",
