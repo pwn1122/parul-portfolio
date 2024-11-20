@@ -21,11 +21,33 @@ function App() {
     { icon: "★", lang: "Creativity" },
   ];
   const project = [
+
+    {
+      img: "egg.jpg",
+      title: "Healthy Food",
+      date: "20 November 2024",
+    },
+    {
+      img: "gurunanak.jpg",
+      title: "Happy Gurunanak Jayanti",
+      date: "15 November 2024",
+    },
+    {
+      img: "abroad.jpg",
+      title: "Study Abroad",
+      date: "17 November 2024",
+    },
+    {
+      img: "best-digital.jpg",
+      title: "Best Digital Marketing",
+      date: "13 November 2024",
+    },
     {
       img: "bhaidooj.jpg",
       title: "Happy Bhaidooj",
       date: "3 November 2024",
     },
+
     {
       img: "gordhan.jpg",
       title: "Govardhan Pooja",
@@ -47,10 +69,11 @@ function App() {
       title: "Happy Dhanteras",
       date: "30 October 2024",
     },
+   
     {
-      img: "1.jpg",
-      title: "Coffee-Pea",
-      date: "20 September 2024",
+      img: "ritvik.jpg",
+      title: "Ritvik Soni Web Developer",
+      date: "20 October 2024",
     },
 
     {
@@ -82,11 +105,7 @@ function App() {
       title: "Fanta - Orange",
       date: "28 September 2024",
     },
-    {
-      img: "ritvik.jpg",
-      title: "Ritvik Soni Web Developer",
-      date: "20 October 2024",
-    },
+    
     
     {
       img: "2.jpg",
@@ -141,6 +160,11 @@ function App() {
       img: "google.jpg",
       title: "Start Your Business",
       date: "22 October 2024",
+    },
+    {
+      img: "1.jpg",
+      title: "Coffee-Pea",
+      date: "20 September 2024",
     },
     
     
