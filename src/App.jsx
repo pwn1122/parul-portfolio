@@ -253,7 +253,7 @@ function App() {
             <div className="front-end">
               <div className="dev front">Digital</div>
               <div className="line2 developer"></div>
-              <div className="dev end">Marketer & Designer</div>
+              <div className="dev end">Marketing & Designer</div>
             </div>
             <main className="main-heading">
               <div className="main-div front">
