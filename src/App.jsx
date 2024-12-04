@@ -23,6 +23,53 @@ function App() {
   const project = [
 
     {
+      img: "monkey.jpg",
+      title: "Without Digital Marketing No Value Of Your Brand",
+      date: "3 December 2024",
+    }, 
+    {
+      img: "milk.jpg",
+      title: "Lesquick Milk",
+      date: "2 December 2024",
+    }, 
+    {
+      img: "pasta.jpg",
+      title: "Facebook Pasta",
+      date: "1 December 2024",
+    }, 
+    
+    {
+      img: "piza.jpg",
+      title: "Day Nite Pizza",
+      date: "30 November 2024",
+    }, 
+    {
+      img: "nestle.jpg",
+      title: "Nestle Coffee",
+      date: "29 November 2024",
+    }, 
+    {
+      img: "bridall.jpg",
+      title: "Simran Makeover",
+      date: "28 November 2024",
+    }, 
+    {
+      img: "choc.jpg",
+      title: "Choclate Shake",
+      date: "27 November 2024",
+    }, 
+    {
+      img: "combo.jpg",
+      title: "Flavour Exploison Combo",
+      date: "26 November 2024",
+    }, 
+    {
+      img: "1000.jpg",
+      title: "Social Media Marketing",
+      date: "25 November 2024",
+    }, 
+    
+    {
       img: "egg.jpg",
       title: "Healthy Food",
       date: "20 November 2024",
@@ -138,8 +185,6 @@ function App() {
       date: "24 September 2024",
     },
     
-    
-  
     {
       img: "gandhi.jpg",
       title: "Gandhi Jayanti",
@@ -206,9 +251,9 @@ function App() {
           </nav>
           <section className="section">
             <div className="front-end">
-              <div className="dev front">Graphic</div>
+              <div className="dev front">Digital</div>
               <div className="line2 developer"></div>
-              <div className="dev end">Designer</div>
+              <div className="dev end">Marketer & Designer</div>
             </div>
             <main className="main-heading">
               <div className="main-div front">
@@ -217,15 +262,15 @@ function App() {
                 <span className="im">I'M</span> <br />
                 <span className="parul">Parul Hudda</span>
               </div>
-              <div className="end">
-                <img src="/img/parul-logo.jpg" alt="" />
-              </div>
+              {/* <div className="end">
+                <img src="/logo/1.png   " alt="" />
+              </div> */}
             </main>
           </section>
           <div className="logo-text">
             <img
               className="logo-img"
-              src="/logo/main-logo.jpg"
+              src="/logo/digi.jpg"
               alt=""
               height={150}
               width={150}
@@ -247,12 +292,10 @@ function App() {
       <article>
         <h1>ABOUT ME</h1>
         <p>
-        Hello, I’m Parul Hudda, a graphic designer with a passion for creating meaningful designs that make a lasting impact <br />
-        As a graphic designer, I strive to create designs that are not only visually appealing but also communicate a message effectively. <br />
-        I have worked with clients from various sectors, such as fashion, food, and education.<br />
-        My areas of expertise include logo design, print design, and web design. <br />
-          ranging from websites to Web-Apps <br />
-          I take pride in my ability to deliver projects on time and on budget, while maintaining the highest standards of quality.
+        A highly motivated and results-driven individual with a passion for digital marketing.  <br />
+        I possess a strong understanding of online marketing techniques, including SEO, content creation, social media management, and paid advertising. Eager to contribute my creativity and analytical skills to drive online engagement and increase brand visibility.<br />
+        Adept at utilizing digital tools, data analytics, and marketing strategies to achieve business goals. <br />
+        Seeking an entry-level opportunity to further develop my skills and contribute to the success of a dynamic digital marketing team.
           <br />
 
         </p>

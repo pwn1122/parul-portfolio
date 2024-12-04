@@ -13,7 +13,10 @@ function About() {
     { img: 'Motion-Graphics.webp', title: "Motion Graphics" },
     { img: 'illustartion.jpeg', title: "Illustration" },
     { img: 'logocre.jpeg', title: "Logo Creation" },
-    { img: '3d-animation.png', title: "3D Animation/Modeling" },
+    { img: '3d-animation.png', title: "Google Business" },
+    { img: '3d-animation.png', title: "Photopea" },
+    { img: '3d-animation.png', title: "Canva" },
+    { img: '3d-animation.png', title: "Business Logo" },
   ]
   return (
     <>
@@ -22,7 +25,7 @@ function About() {
         <img src="/logo/name-logo.png" alt="" height={350} width={350} />
         <div>
           <h1>Hi, I'm Parul Hudda ✌️</h1>
-          <p>My name is Parul Hudda ,I'm a Graphic Designer. A highly creative and motivated Fresher Graphic Designer with a passion for crafting visually appealing, professional content for a wide range of needs - from brand logos to web design and digital media. Seeking to join a dynamic team to utilize strong knowledge of color selection, text styles and layout design, and specialized design software to create high-quality visuals and customer satisfaction. Aiming to contribute to the success of an organization through innovative ideas and exceptional design.</p>
+          <p>My name is Parul Hudda ,A highly motivated and results-driven individual with a passion for digital marketing. I possess a strong understanding of online marketing techniques, including SEO, content creation, social media management, and paid advertising. Eager to contribute my creativity and analytical skills to drive online engagement and increase brand visibility. Adept at utilizing digital tools, data analytics, and marketing strategies to achieve business goals. Seeking an entry-level opportunity to further develop my skills and contribute to the success of a dynamic digital marketing team.</p>
         </div>
         <div>
           <h1>Tools</h1>
