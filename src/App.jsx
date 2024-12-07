@@ -250,11 +250,11 @@ function App() {
             </span>
           </nav>
           <section className="section">
-            <div className="front-end">
+            <dijv className="front-end">
               <div className="dev front">Digital</div>
               <div className="line2 developer"></div>
               <div className="dev end">Marketing & Designer</div>
-            </div>
+            </dijv>
             <main className="main-heading">
               <div className="main-div front">
                 <span className="hey">Hey <span className="there">There,</span></span>
