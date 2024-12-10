@@ -8,8 +8,6 @@
 body{
   background-color: #000;
 }
-
-
 .container{
   height: 100vh;
 }
@@ -121,9 +119,8 @@ margin-bottom: 20px;
   display: flex;
   flex-wrap: wrap;
   place-items: center;
-  padding: 0 30px;
-  /* border: 2px solid; */
-  margin-top: 150px ;
+  padding: 10px 30px;
+  margin-top: 10px ;
   justify-content: space-between;
 }
 .lets-talk{
@@ -527,5 +524,8 @@ footer .intro p a:hover{
   .developer{
     /* font-size: 2em; */
     font-size: 2.793rem;
+  }
+  .end img{
+    display: none;
   }
 }

@@ -262,9 +262,9 @@ function App() {
                 <span className="im">I'M</span> <br />
                 <span className="parul">Parul Hudda</span>
               </div>
-              {/* <div className="end">
+               <div className="end">
                 <img src="/logo/1.png   " alt="" />
-              </div> */}
+              </div> 
             </main>
           </section>
           <div className="logo-text">
