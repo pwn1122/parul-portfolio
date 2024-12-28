@@ -257,9 +257,9 @@ function App() {
             </dijv>
             <main className="main-heading">
               <div className="main-div front">
-                <span className="hey">Hey <span className="there">There,</span></span>
+                <span className="hey">Hey <span className="there">There,</span><span className="im">I'M</span></span>
                  <br />
-                <span className="im">I'M</span> <br />
+                {/* <span className="im">I'M</span> <br /> */}
                 <span className="parul">Parul Hudda</span>
               </div>
                <div className="end">

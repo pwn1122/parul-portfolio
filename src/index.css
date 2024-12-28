@@ -52,7 +52,7 @@ body{
   justify-content: center;
   align-items: center;
   gap: 100px;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .main-heading img{
   height: 250px ;
@@ -71,11 +71,12 @@ body{
 .there{
   color: azure;
   font-size: 20px;
-margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 .im{
   color: grey;
   font-size: 40px;
+  padding: 10px;
 }
 .im:hover{
   color: rgb(253 186 116); ;
@@ -106,7 +107,7 @@ margin-bottom: 20px;
  
 }
 .dev{
-  font-size: 6rem;
+  font-size: 5rem;
   font-weight: 800;
   letter-spacing: 10px;
   cursor: pointer;
@@ -120,7 +121,7 @@ margin-bottom: 20px;
   flex-wrap: wrap;
   place-items: center;
   padding: 10px 30px;
-  margin-top: 10px ;
+  margin-top: 10px;
   justify-content: space-between;
 }
 .lets-talk{
