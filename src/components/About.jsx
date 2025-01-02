@@ -13,12 +13,11 @@ function About() {
     { img: 'Motion-Graphics.webp', title: "Motion Graphics" },
     { img: 'illustartion.jpeg', title: "Illustration" },
     { img: 'logocre.jpeg', title: "Logo Creation" },
-    { img: '3d-animation.png', title: "Google Business" },
-    { img: '3d-animation.png', title: "Photopea" },
+    { img: 'gb.png', title: "Google Business" },
+    { img: 'photopea.png', title: "Photopea" },
     { img: 'images.png', title: "Photo Shop" },
-
-    { img: '3d-animation.png', title: "Canva" },
-    { img: '3d-animation.png', title: "Business Logo" },
+    { img: 'canva.jpeg', title: "Canva" },
+    { img: 'bg.avif', title: "Business Logo" },
   ]
   return (
     <>
