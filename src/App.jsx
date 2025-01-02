@@ -23,10 +23,76 @@ function App() {
   const project = [
 
     {
+      img: "bb2p.jpg",
+      title: "Bella Bites Party Hall",
+      date: "5 December 2024",
+    }, 
+    {
+      img: "bb3.jpg",
+      title: "Bella Bites Bogo Day",
+      date: "7 December 2024",
+    }, 
+    {
+      img: "bellabites.jpg",
+      title: "Bella Bites",
+      date: "9 December 2024",
+    }, 
+    {
+      img: "manoj.jpg",
+      title: "Maonoj Bakery And Cake House",
+      date: "11 December 2024",
+    }, 
+    {
+      img: "nadec.jpg",
+      title: "Nadec",
+      date: "13 December 2024",
+    }, 
+    {
+      img: "nutela.jpg",
+      title: "Nutella",
+      date: "15 December 2024",
+    }, 
+    {
+      img: "pnbchulha.jpg",
+      title: "Punjabi Chulha Family Dinner",
+      date: "17 December 2024",
+    }, 
+    {
+      img: "shyni.jpg",
+      title: "100% Pure Silver Shyni.co",
+      date: "19 December 2024",
+    }, 
+    {
+      img: "song.jpg",
+      title: "Upcoming Song Jaade Ki Raat",
+      date: "21 December 2024",
+    }, 
+    {
+      img: "store.jpg",
+      title: "Queer Store",
+      date: "23 December 2024",
+    }, 
+    {
+      img: "nubis.jpg",
+      title: "Nubis Pressure Washing",
+      date: "25 December 2024",
+    }, 
+    {
+      img: "heaven.jpg",
+      title: "Slice Of Heavan",
+      date: "27 December 2024",
+    }, 
+    {
+      img: "edge.jpg",
+      title: "Edge Ventue Beyond Your Normal Horizon",
+      date: "29 December 2024",
+    }, 
+    {
       img: "monkey.jpg",
       title: "Without Digital Marketing No Value Of Your Brand",
-      date: "3 December 2024",
+      date: "1 January 2025",
     }, 
+    
     {
       img: "milk.jpg",
       title: "Lesquick Milk",
