@@ -15,6 +15,8 @@ function About() {
     { img: 'logocre.jpeg', title: "Logo Creation" },
     { img: '3d-animation.png', title: "Google Business" },
     { img: '3d-animation.png', title: "Photopea" },
+    { img: 'images.png', title: "Photo Shop" },
+
     { img: '3d-animation.png', title: "Canva" },
     { img: '3d-animation.png', title: "Business Logo" },
   ]
