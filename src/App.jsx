@@ -23,6 +23,27 @@ function App() {
   const project = [
 
     {
+      img: "bb4.jpg",
+      title: "You Can Taste With Our Combo",
+      date: "15 December 2024",
+    }, 
+    {
+      img: "bb-5.jpg",
+      title: "Special Discount On Pizza",
+      date: "20 December 2024",
+    }, 
+    {
+      img: "jaade-ki-raat.jpg",
+      title: "Jaade Ki Raat",
+      date: "31 December 2024",
+    }, 
+    {
+      img: "naols-menu.jpg",
+      title: "Luxotic Nails Studio",
+      date: "10 January 2025",
+    }, 
+
+    {
       img: "bb2p.jpg",
       title: "Bella Bites Party Hall",
       date: "5 December 2024",
@@ -39,11 +60,11 @@ function App() {
     }, 
     {
       img: "manoj.jpg",
-      title: "Maonoj Bakery And Cake House",
+      title: "Manoj Bakery And Cake House",
       date: "11 December 2024",
     }, 
     {
-      img: "nadec.jpg",
+      img: "kiwii.jpg",
       title: "Nadec",
       date: "13 December 2024",
     }, 
@@ -95,7 +116,7 @@ function App() {
     
     {
       img: "milk.jpg",
-      title: "Lesquick Milk",
+      title: "Nesquick Milk",
       date: "2 December 2024",
     }, 
     {
@@ -360,7 +381,7 @@ function App() {
         <p>
         A highly motivated and results-driven individual with a passion for digital marketing.  <br />
         I possess a strong understanding of online marketing techniques, including SEO, content creation, social media management, and paid advertising. Eager to contribute my creativity and analytical skills to drive online engagement and increase brand visibility.<br />
-        Adept at utilizing digital tools, data analytics, and marketing strategies to achieve business goals. <br />
+        Adept at utilizing digital tools and marketing strategies to achieve business goals. <br />
         Seeking an entry-level opportunity to further develop my skills and contribute to the success of a dynamic digital marketing team.
           <br />
 
