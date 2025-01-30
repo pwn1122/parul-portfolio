@@ -21,6 +21,43 @@ function App() {
     { icon: "★", lang: "Creativity" },
   ];
   const project = [
+     
+    {
+      img: "jaade-ki-raat-new.jpg",
+      title: "Song Poster Jaade Ki Raat",
+      date: "15 january 2025",
+    }, 
+
+    {
+      img: "pantene-front.jpg",
+      title: "Pantene Shampoo",
+      date: "20 January 2025",
+    }, 
+    {
+      img: "side-pantene.jpg",
+      title: "Pantene Shampoo",
+      date: "20 January 2025",
+    }, 
+    {
+      img: "lavazza.jpg",
+      title: "Lavazza Coffee",
+      date: "17 January 2025",
+    }, 
+    {
+      img: "song-new.jpg",
+      title: "Song Poster Jaade Ki Raat",
+      date: "22 January  2025",
+    }, 
+    {
+      img: "special-food.jpg",
+      title: "Special Today Food",
+      date: "24 January 2025",
+    }, 
+    {
+      img: "wrap.jpg",
+      title: "Tortilla Wrap",
+      date: "26 January 2025",
+    }, 
 
     {
       img: "bb4.jpg",
