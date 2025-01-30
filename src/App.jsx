@@ -24,7 +24,7 @@ function App() {
      
     {
       img: "jaade-ki-raat-new.jpg",
-      title: "Song Poster Jaade Ki Raat",
+      title: "Youtube Thumbnail Jaade Ki Raat",
       date: "15 january 2025",
     }, 
 
